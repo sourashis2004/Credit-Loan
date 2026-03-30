@@ -1,6 +1,6 @@
 # Credit-Loan\
 
-👤 Author
+👤 Author:
 Sourashis Mukherjee.
 
 
@@ -50,36 +50,27 @@ This project is a Machine Learning-based Credit-wise Loan System that predicts w
 1.Collect user input
 2.Preprocess input data
 3.Apply trained ML models:
-Logistic Regression
-KNN
-Gaussian Naive Bayes
-Compare predictions
-Output final loan approval status
+    1.Logistic Regression
+    2.KNN
+    3.Gaussian Naive Bayes
+Compare predictions:
+Output final loan approval status:
 📈 Model Evaluation
-Accuracy score
-Confusion matrix
-Recall score
-Precision Score
-f1 Score
+1.Accuracy score
+2.Confusion matrix
+3.Recall score
+4.Precision Score
+5.f1 Score
 Comparison of all three models
 
-👉 Example (replace with your actual results):
+👉 Example:
 
-Logistic Regression: 88% accuracy
-KNN: 78.5% accuracy
-GaussianNB: 86% accuracy
+1.Logistic Regression: 88% accuracy
+2.KNN: 78.5% accuracy
+3.GaussianNB: 86% accuracy
 🛠️ Technologies Used
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib / Seaborn
-
-
-
-📌 Future Improvements
-
-Hyperparameter tuning for better accuracy
-Use advanced models like Random Forest or XGBoost
-Deploy as a web application
-Add real-time financial data integration.
+1.Python
+2.Pandas, NumPy
+3.Scikit-learn
+4.Matplotlib / Seaborn.
 
